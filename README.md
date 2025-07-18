@@ -15,4 +15,11 @@ This Colab notebook uses **Stable Diffusion** to generate minimal, high-quality 
 3. Click **Generate** to create your image.
 4. Download the image and set it as a Power BI background.
 
+✅ Summary
+Action	Gradio link status
+Colab open & running -	✅ Link works
+Colab tab closed	- ❌ Link stops
+Colab runtime disconnects -	❌ Link stops
+Colab re-run	- ✅ New link works again
+
 
