@@ -18,8 +18,11 @@ This Colab notebook uses **Stable Diffusion** to generate minimal, high-quality 
 ✅ Summary
 Action	Gradio link status
 Colab open & running -	✅ Link works
+
 Colab tab closed	- ❌ Link stops
+
 Colab runtime disconnects -	❌ Link stops
+
 Colab re-run	- ✅ New link works again
 
 
